@@ -1,0 +1,38 @@
+body{
+	font-family: Arial;
+	background: #ccc;
+	width: 80%
+	margin:20px;
+}
+header {
+	background-color: #303030;
+	padding: 20px;
+
+
+}
+header ul {
+	list-style: none;
+}
+main {
+	background-color: #fff;
+	padding: 20px;
+
+}
+header ul a {
+	color: #fff;
+	text-decoration: none;
+	padding: 20px;
+}
+header ul a:hover {
+	background-color: #ef8354;
+
+}
+
+footer {
+	background-color: #303030;
+	color: #fff;
+	padding: 10px;
+}
+p {
+	font-family: arial black;
+}
