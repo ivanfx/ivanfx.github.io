@@ -14,7 +14,7 @@ header ul {
 	list-style: none;
 }
 main {
-	background-color: #303030;
+	background-color: #FFF;
 	padding: 20px;
 
 }
@@ -29,7 +29,7 @@ header ul a:hover {
 }
 
 footer {
-	background-color: blue;
+	background-color: #303030;
 	color: #fff;
 	padding: 10px;
 }
