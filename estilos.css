@@ -1,4 +1,4 @@
-1body{
+body{
 	font-family: Arial;
 	background: #ccc;
 	width: 80%
@@ -36,4 +36,5 @@ footer {
 p {
 	font-family: arial black;
 	background-color: #ccc;
+	padding: 40px;
 }
