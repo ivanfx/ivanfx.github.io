@@ -1,4 +1,4 @@
-body{
+1body{
 	font-family: Arial;
 	background: #ccc;
 	width: 80%
@@ -15,7 +15,7 @@ header ul {
 }
 main {
 	background-color: #ccc;
-	padding: 40px;
+	padding: 10px;
 
 }
 header ul a {
