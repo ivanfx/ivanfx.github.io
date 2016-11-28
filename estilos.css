@@ -24,12 +24,12 @@ header ul a {
 	padding: 20px;
 }
 header ul a:hover {
-	background-color: #ef8354;
+	background-color: orange;
 
 }
 
 footer {
-	background-color: #303030;
+	background-color: blue;
 	color: #fff;
 	padding: 10px;
 }
