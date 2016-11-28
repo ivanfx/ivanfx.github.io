@@ -1,4 +1,4 @@
-body{
+ody{
 	font-family: Arial;
 	background: #ccc;
 	width: 80%
@@ -14,7 +14,7 @@ header ul {
 	list-style: none;
 }
 main {
-	background-color: #fff;
+	background-color: orange;
 	padding: 20px;
 
 }
