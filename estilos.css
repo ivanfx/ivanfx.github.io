@@ -15,7 +15,7 @@ header ul {
 }
 main {
 	background-color: #FFF;
-	padding: 20px;
+	padding: 40px;
 
 }
 header ul a {
@@ -35,4 +35,5 @@ footer {
 }
 p {
 	font-family: arial black;
+	background-color: #FFF;
 }
