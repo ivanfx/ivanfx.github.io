@@ -14,7 +14,7 @@ header ul {
 	list-style: none;
 }
 main {
-	background-color: #FFF;
+	background-color: #ccc;
 	padding: 40px;
 
 }
@@ -35,5 +35,5 @@ footer {
 }
 p {
 	font-family: arial black;
-	background-color: #FFF;
+	background-color: #ccc;
 }
